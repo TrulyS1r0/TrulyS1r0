@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him (or They/Them is available too)
 - ⚡ Fun fact: Im a gaming addict with way too much time and I installed EndeavourOS on my weak Laptop the day of writing this.
 
+also, new thing added, I primarily use GML (GameMaker Language) with GameMaker Studio 2 LTS, currently on latest (LTS2026)
+
 <!---
 TrulyS1r0/TrulyS1r0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
